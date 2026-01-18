@@ -94,7 +94,7 @@ The **sql/** folder contains queries used to:
 ---
 
 ## 🖼 Dashboard Preview
-(![Dashboard Preview](./images/dashboard_preview.png)
+(![Dashboard Preview](https://github.com/Lord-Shadow-Z/Smart-Retail-Intelligence/blob/main/images/dashboard_preview.png)
 
 
 ---
