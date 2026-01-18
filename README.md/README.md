@@ -94,8 +94,8 @@ The **sql/** folder contains queries used to:
 ---
 
 ## 🖼 Dashboard Preview
+(![Dashboard Preview](./images/dashboard_preview.png)
 
-![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
