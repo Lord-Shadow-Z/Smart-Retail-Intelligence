@@ -117,6 +117,6 @@ Data Analyst | Power BI | SQL | Python
 
 ## 📎 Notes
 
-- This project is designed to be **interview-ready**
+
 - Focuses on clean structure, realistic analysis, and business relevance
 - Notebook + SQL + Power BI combination reflects real-world analytics workflows
